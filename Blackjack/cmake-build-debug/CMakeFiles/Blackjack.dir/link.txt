@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Blackjack.dir/main.cpp.o  -o Blackjack.exe -Wl,--out-implib,libBlackjack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
