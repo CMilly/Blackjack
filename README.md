@@ -1,4 +1,5 @@
 # Blackjack
+Test your luck!
 
 # Overview
 Personal console based implementation of the card game Blackjack
